@@ -1,0 +1,3 @@
+/home/arama/Projects/SDLVolleyball/cmake-build-debug/CMakeFiles/SDLVolleyball.dir
+/home/arama/Projects/SDLVolleyball/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arama/Projects/SDLVolleyball/cmake-build-debug/CMakeFiles/rebuild_cache.dir
